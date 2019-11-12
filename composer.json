@@ -3,6 +3,7 @@
 	"type": "project",
 	"license": "MIT",
 	"version": "1.0.0",
+	"stability": "stable",
 	"description": "The Gagyi Framework",
 	"require": {
 		"php": "^7.2",
