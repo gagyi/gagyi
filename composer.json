@@ -5,7 +5,7 @@
 	"description": "The Gagyi Framework",
 	"require": {
 		"php": "^7.2",
-		"gagyi/framework": "^0.9",
+		"gagyi/framework": "^0.9"
 	},
 	"autoload": {
 		"psr-4": {
