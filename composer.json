@@ -2,16 +2,10 @@
 	"name": "gagyi/gagyi",
 	"type": "project",
 	"license": "MIT",
-	"version": "1.0.0",
-	"stability": "stable",
 	"description": "The Gagyi Framework",
 	"require": {
 		"php": "^7.2",
 		"gagyi/framework": "^0.9",
-		"nesbot/carbon": "^2.11",
-		"erusev/parsedown": "^1.7",
-		"phpoffice/phpspreadsheet": "^1.6",
-		"p3k/emoji-detector": "^0.2.1"
 	},
 	"autoload": {
 		"psr-4": {
